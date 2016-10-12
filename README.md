@@ -1,5 +1,6 @@
 # todo list 
 - [X] 完成ubuntu tuna mirror 的反代(地址http://ubuntu.airbob.org; 实机测试通过）
+- [ ] 完成安卓镜像和homebrew bottles的镜像
 - [ ] 完成首页和wiki （预计五天吧)
 - [ ] 完成服务器监控等的部署。
 - [ ] homebrew 等的git仓库提供git和https两种方式，加入统计。
